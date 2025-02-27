@@ -171,4 +171,4 @@ cython_debug/
 .pypirc
 
 # models
-.pth
+*.pth
